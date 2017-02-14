@@ -209,7 +209,7 @@ Oh, and don't forget. Arrow functions are **always** anonymous.
 
 ## More ES6
 
-We were only able to cover a few of the useful featuers of ES6. There are plenty more. A good place to check out a list is [http://es6-features.org/](http://es6-features.org/)
+We were only able to cover a few of the useful features of ES6. There are plenty more. A good place to check out a list is [http://es6-features.org/](http://es6-features.org/)
 
 - Class Syntax
 - Generators
@@ -224,3 +224,5 @@ We were only able to cover a few of the useful featuers of ES6. There are plenty
 There is a cool tool called Python Tutor. Even though it started as a way to visualize python code exectution, support for many more languages has been added. There is support for the visualization of your JavaScript code execution.
 
 Eventually you shouldn't need the tutor to visualize the path your code is taking. Try to practice by getting some code you didn't write. Take a look and try and imagine how the code is being executed. You can verify by using the [Python Tutor](http://pythontutor.com/) site.
+
+["Cool tools rule. Cool tools."](https://www.youtube.com/watch?v=nKHHDSpY06c)
