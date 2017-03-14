@@ -140,14 +140,9 @@ It is easy to confuse this with `for...in` which is used to interate through the
 With normal strings you tend to concatenate a lot of variables.
 
 ```javascript
-function nth(value) {
-  const special = [null, 'st', 'nd', 'rd'];
-  return value + (special[value] || 'th');
-}
-
 const date = {
   dow: 'Tuesday',
-  day: nth(14),
+  day: 14,
   month: 'February',
   year: 2017
 };
