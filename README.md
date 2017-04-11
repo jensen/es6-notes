@@ -212,7 +212,6 @@ We were only able to cover a few of the useful features of ES6. There are plenty
 - Destructuring Assignment
 - Modules
 - Enhanced Object Properties
-- Generators
 
 ## Bonus
 
